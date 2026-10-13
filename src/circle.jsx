@@ -10,6 +10,7 @@ function Random(){
         <>
         
         <div onClick={click}></div>
+        <div> onClick={click}</div>
 
         </>
     )
